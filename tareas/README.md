@@ -1,4 +1,6 @@
 # Programacion Superior
 
 ## Jorge-Andrade-IMT-231
-este repositorio mos permite trabajar ordenado
+Este repositorio nos permite trabajar ordenado
+Este repositorio sera para presentacion de tareas, examenes, clases de la materia Programacion Superior
+ 
