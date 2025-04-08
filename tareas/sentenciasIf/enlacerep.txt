@@ -1,0 +1,4 @@
+enlace repositorio
+https://github.com/Jo34IMT/Jorge-Andrade-IMT-231.git
+enlace de tarea sentencias if 
+https://github.com/Jo34IMT/Jorge-Andrade-IMT-231/tree/main/tareas/sentenciasIf
